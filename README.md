@@ -1,0 +1,2 @@
+#myshell
+sh build
